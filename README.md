@@ -1,1 +1,1 @@
-# B.S.-Data-Science-and-Artificial-Intelligence
+# B.S. Data Science and Artificial Intelligence
